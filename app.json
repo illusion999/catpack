@@ -13,15 +13,15 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "F L A S H"
+      "value": "Gang Address:- @TheProfessorTeam"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "3956471"
+      "value": "2250195"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "0d79836d09d9b578d4596fd818940b7c"
+      "value": "494231c0d4c91f84141468f3cac1b3bb"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -29,11 +29,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@Venom_x_bot"
+      "value": "@Denver_X_Bot"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1743347518:AAFJSLioSCFQeTdEzOUBetY6hWu1lTho-Mk"
+      "value": "1733137741:AAG1DrDTf1C_fRv36nOmPS9RsuBHks8DtQ8"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Sudo users ",
-      "value": "1369416523 1690949100 1656108209 1163215873",
+      "value": "914563052 1202361553",
       "required": false
     },
     "HEROKU_API_KEY": {
